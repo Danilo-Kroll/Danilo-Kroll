@@ -1,6 +1,6 @@
 ### Olá, meu nome é Danilo!
 
-Analista de Dados
+Sou programador freelancer em PHP e Analista de Dados.
 
 **Programador Web Freeleancer**: Sistemas Web desenvolvidos com as ferramentas:
 
@@ -14,15 +14,18 @@ Analista de Dados
 </div>
 
 <br>
+
 **Analisa de Dados/BI**: Tratamento de dados e criação de Dashboards em Power BI
 
-(https://dkrollweb.com.br/)
+<img width='80' src="https://logosmarcas.net/wp-content/uploads/2022/02/Power-BI-Simbolo.png" />
 
-<br>
-Atualmente mais focado em:
+#### Você pode conferir meus trabalhos no meu site:
+https://dkrollweb.com.br/
+
+
+#### Atualmente mais focado em buscar conhecimento em Ciência de Dados:
 <div display="inline"> 
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 </div>
 
 #### Você também me encontra em:
@@ -35,3 +38,6 @@ Atualmente mais focado em:
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </div>
+
+#### Confira os conteúdos de ciência de dados que eu criei:
+ Aplicando a clusterização K-means na analise de gastos parlamentares dos partidos politícos (Medium)
