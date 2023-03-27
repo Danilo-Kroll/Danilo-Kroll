@@ -21,7 +21,7 @@ Sou programador freelancer em PHP e Analista de Dados/BI. Gosto de desenvolver s
 
 ### Conhecimentos como Programador
 
-Atuo no desenvolvimento de sistemas Web para empresas de pequeno porte. O objetivo principal é unificar controles que na maioria das vezes estão em diveros arquivos em um único lugar, gerando assim, que a empresa não perca tempo e foque no que importa, vender!
+Atuo no desenvolvimento de sistemas Web para empresas de pequeno porte. O objetivo principal é substituir controles que na maioria das vezes estão em diveros arquivos por um sistema único, capaz de dar mais agilidade ao negócio, economizando tempo nos controle e dando foco no que realmente importa, vender!
 
 <div style="display: inline">
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />&nbsp;&nbsp;
