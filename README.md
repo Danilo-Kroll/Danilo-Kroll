@@ -49,5 +49,5 @@ https://dkrollweb.com.br/
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;
 </div>
 
-### Confira os conteúdos de ciência de dados que eu criei:
- Aplicando a clusterização K-means na analise de gastos parlamentares dos partidos politícos (Medium)
+<!--### Confira os conteúdos de ciência de dados que eu criei:
+ Aplicando a clusterização K-means na analise de gastos parlamentares dos partidos politícos (Medium)-->
