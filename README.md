@@ -1,8 +1,19 @@
 ### Olá, meu nome é Danilo!
 
-Sou programador freelancer em PHP e Analista de Dados.
 
-**Programador Web Freeleancer**: Sistemas Web desenvolvidos com as ferramentas:
+### Formação Acadêmica
+
+1. Graduado em Engenharia de Produção **FACCAMP** (2011 - 2015)
+
+2. MBA em Data Science e Analytics **USP/Esalq** (2022 - 2023)
+
+### Sobre
+
+Sou programador freelancer em PHP e Analista de Dados/BI. Gosto de desenvolver soluções e ajudar o ambiente onde estou inserido a tomar as melhores decisões.
+
+**Conhecimentos como Programador**
+
+Atuo no desenvolvimento de sistemas Web para empresas de pequeno porte. O objetivo principal é unificar controles que na maioria das vezes estão em diveros arquivos em um único lugar, gerando assim, que a empresa não perca tempo e foque no que importa, vender!
 
 <div style="display: inline">
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />&nbsp;&nbsp;
@@ -15,7 +26,9 @@ Sou programador freelancer em PHP e Analista de Dados.
 
 <br>
 
-**Analisa de Dados/BI**: Tratamento de dados e criação de Dashboards em Power BI
+**Conhecimentos como Analisa de Dados/BI**
+
+Tratamento de dados e criação de Dashboards em Power BI.
 
 <img width='80' src="https://logosmarcas.net/wp-content/uploads/2022/02/Power-BI-Simbolo.png" />
 
