@@ -3,10 +3,10 @@
 <div style="display: inline">
   <a href="https://www.linkedin.com/in/danilo-kroll-2a084385/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-  </a>&nbsp;&nbsp;
+  <!--</a>&nbsp;&nbsp;
   <a href="[#](https://www.linkedin.com/in/danilo-kroll-2a084385/)" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
+  </a>-->
 </div>
 
 ### Formação Acadêmica
