@@ -1,4 +1,4 @@
-### Olá, meu nome é Danilo!
+<h1>Olá, meu nome é Danilo!</h1>
 
 
 ### Formação Acadêmica
@@ -11,7 +11,7 @@
 
 Sou programador freelancer em PHP e Analista de Dados/BI. Gosto de desenvolver soluções e ajudar o ambiente onde estou inserido a tomar as melhores decisões.
 
-**Conhecimentos como Programador**
+### Conhecimentos como Programador
 
 Atuo no desenvolvimento de sistemas Web para empresas de pequeno porte. O objetivo principal é unificar controles que na maioria das vezes estão em diveros arquivos em um único lugar, gerando assim, que a empresa não perca tempo e foque no que importa, vender!
 
@@ -26,7 +26,7 @@ Atuo no desenvolvimento de sistemas Web para empresas de pequeno porte. O objeti
 
 <br>
 
-**Conhecimentos como Analisa de Dados/BI**
+### Conhecimentos como Analisa de Dados/BI
 
 Tratamento de dados e criação de Dashboards em Power BI.
 
