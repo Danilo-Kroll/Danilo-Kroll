@@ -40,8 +40,8 @@ Tratamento de dados e criação de Dashboards em Power BI.
 
 <img width='80' src="https://logosmarcas.net/wp-content/uploads/2022/02/Power-BI-Simbolo.png" />
 
-### Você pode conferir meus trabalhos no meu site:
-https://dkrollweb.com.br/
+<!--### Você pode conferir meus trabalhos no meu site:
+https://dkrollweb.com.br/ -->
 
 
 ### Atualmente mais focado em buscar conhecimento em Ciência de Dados:
