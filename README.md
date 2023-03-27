@@ -1,5 +1,13 @@
 <h1>Olá, seja bem vindo ao meu perfil, meu nome é Danilo Kroll!</h1>
 
+<div style="display: inline">
+  <a href="https://www.linkedin.com/in/danilo-kroll-2a084385/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a>&nbsp;&nbsp;
+  <a href="[#](https://www.linkedin.com/in/danilo-kroll-2a084385/)" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</div>
 
 ### Formação Acadêmica
 
@@ -39,17 +47,6 @@ https://dkrollweb.com.br/
 ### Atualmente mais focado em buscar conhecimento em Ciência de Dados:
 <div display="inline"> 
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;
-</div>
-
-### Você também me encontra em:
-
-<div style="display: inline">
-  <a href="https://www.linkedin.com/in/danilo-kroll-2a084385/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-  </a>&nbsp;&nbsp;
-  <a href="[#](https://www.linkedin.com/in/danilo-kroll-2a084385/)" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
 </div>
 
 ### Confira os conteúdos de ciência de dados que eu criei:
