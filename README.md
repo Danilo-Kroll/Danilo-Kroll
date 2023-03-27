@@ -32,16 +32,16 @@ Tratamento de dados e criação de Dashboards em Power BI.
 
 <img width='80' src="https://logosmarcas.net/wp-content/uploads/2022/02/Power-BI-Simbolo.png" />
 
-#### Você pode conferir meus trabalhos no meu site:
+### Você pode conferir meus trabalhos no meu site:
 https://dkrollweb.com.br/
 
 
-#### Atualmente mais focado em buscar conhecimento em Ciência de Dados:
+### Atualmente mais focado em buscar conhecimento em Ciência de Dados:
 <div display="inline"> 
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;
 </div>
 
-#### Você também me encontra em:
+### Você também me encontra em:
 
 <div style="display: inline">
   <a href="https://www.linkedin.com/in/danilo-kroll-2a084385/" target="_blank">
@@ -52,5 +52,5 @@ https://dkrollweb.com.br/
   </a>
 </div>
 
-#### Confira os conteúdos de ciência de dados que eu criei:
+### Confira os conteúdos de ciência de dados que eu criei:
  Aplicando a clusterização K-means na analise de gastos parlamentares dos partidos politícos (Medium)
