@@ -15,9 +15,9 @@
 
 2. MBA em Data Science e Analytics **USP/Esalq** (2022 - 2023)
 
-### Sobre
 
-Sou programador freelancer em PHP e Analista de Dados/BI. Gosto de desenvolver soluções e ajudar o ambiente onde estou inserido a tomar as melhores decisões.
+
+<!--Sou programador freelancer em PHP e Analista de Dados/BI. Gosto de desenvolver soluções e ajudar o ambiente onde estou inserido a tomar as melhores decisões.-->
 
 ### Conhecimentos como Programador
 
