@@ -23,9 +23,9 @@
 Tratamento de dados e criação de Dashboards em Power BI.
 
 <div display="inline"> 
-  <img width='80' src="https://logosmarcas.net/wp-content/uploads/2022/02/Power-BI-Simbolo.png" />
-  <img width='80' src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
-  <img width='80' src="https://logosmarcas.net/wp-content/uploads/2022/02/Power-BI-Simbolo.png" />
+  <img width='50' height='50' src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
+  <img width='50' height='50' src="https://logosmarcas.net/wp-content/uploads/2022/02/Power-BI-Simbolo.png" />
+  <img width='50' height='50' src="https://www.shutterstock.com/image-vector/sql-icon-major-database-format-260nw-1904337712.jpg" />
 </div>
 
 ### Conhecimentos como Programador
