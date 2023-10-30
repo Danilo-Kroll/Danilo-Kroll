@@ -1,4 +1,4 @@
-![image](https://github.com/Danilo-Kroll/Danilo-Kroll/assets/113480875/6462b8f0-f6b6-4383-9c2d-d21a2de392cf)![image](https://github.com/Danilo-Kroll/Danilo-Kroll/assets/113480875/5326380c-60cc-4ff7-ab42-11eb5210af64)# Olá, seja bem vindo ao meu perfil, meu nome é Danilo Kroll!
+# Olá, seja bem vindo ao meu perfil, meu nome é Danilo Kroll!
 
 <div style="display: inline">
   <a href="https://www.linkedin.com/in/danilo-kroll-2a084385/" target="_blank">
