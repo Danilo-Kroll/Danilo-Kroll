@@ -1,4 +1,4 @@
-# Olá, seja bem vindo ao meu perfil, meu nome é Danilo Kroll!
+![image](https://github.com/Danilo-Kroll/Danilo-Kroll/assets/113480875/6462b8f0-f6b6-4383-9c2d-d21a2de392cf)![image](https://github.com/Danilo-Kroll/Danilo-Kroll/assets/113480875/5326380c-60cc-4ff7-ab42-11eb5210af64)# Olá, seja bem vindo ao meu perfil, meu nome é Danilo Kroll!
 
 <div style="display: inline">
   <a href="https://www.linkedin.com/in/danilo-kroll-2a084385/" target="_blank">
@@ -22,7 +22,11 @@
 
 Tratamento de dados e criação de Dashboards em Power BI.
 
-<img width='80' src="https://logosmarcas.net/wp-content/uploads/2022/02/Power-BI-Simbolo.png" />
+<div display="inline"> 
+  <img width='80' src="https://logosmarcas.net/wp-content/uploads/2022/02/Power-BI-Simbolo.png" />
+  <img width='80' src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
+  <img width='80' src="https://logosmarcas.net/wp-content/uploads/2022/02/Power-BI-Simbolo.png" />
+</div>
 
 ### Conhecimentos como Programador
 
@@ -46,7 +50,5 @@ https://dkrollweb.com.br/ -->
 ### Atualmente mais focado em buscar conhecimento em Ciência de Dados:
 <div display="inline"> 
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;
-</div>
-<div display="inline"> 
   <img width='50' height='50' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />&nbsp;&nbsp;
 </div>
