@@ -23,7 +23,7 @@ O objetivo desse repositório é compartilhar projetos de **Análise e Ciência 
 
 ### Conhecimentos com Análisa de Dados/BI
 
-Tratamento de dados e criação de Dashboards em Power BI para tomada de decisão.
+Tratamento de dados e criação de Dashboards em Power BI para tomada de a decisão.
 
 <div display="inline"> 
   <img width='50' height='50' src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
