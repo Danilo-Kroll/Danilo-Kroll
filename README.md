@@ -15,17 +15,26 @@
 
 2. MBA em Data Science e Analytics **USP/Esalq** (2022 - 2023)
 
-<!--Analista Comercial/BI. Gosto de desenvolver soluções e ajudar o ambiente onde estou inserido a tomar as melhores decisões.-->
+### Objetivo do Repositório
+
+O objetivo desse repositório é compartilhar projetos de **Análise e Ciência de Dados**, visando apresentar meus conehcimentos com as ferramentas usadas e a resolução/análise de problemas.
 <br>
 
 ### Conhecimentos com Análisa de Dados/BI
 
-Tratamento de dados e criação de Dashboards em Power BI.
+Tratamento de dados e criação de Dashboards em Power BI para tomada de decisão.
 
 <div display="inline"> 
   <img width='50' height='50' src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
   <img width='80' height='50' src="https://logosmarcas.net/wp-content/uploads/2022/02/Power-BI-Simbolo.png" />
   <img width='90' height='50' src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/320px-Sql_data_base_with_logo.png" />
+</div>
+<br>
+
+### Atualmente mais focado em buscar conhecimento em Ciência de Dados:
+<div display="inline"> 
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;
+  <img width='50' height='50' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />&nbsp;&nbsp;
 </div>
 <br>
 
@@ -40,11 +49,4 @@ Atuo no desenvolvimento de sistemas Web para empresas de pequeno porte. <!--O ob
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-</div>
-<br>
-
-### Atualmente mais focado em buscar conhecimento em Ciência de Dados:
-<div display="inline"> 
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;
-  <img width='50' height='50' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />&nbsp;&nbsp;
 </div>
