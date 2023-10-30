@@ -17,9 +17,17 @@
 
 
 
-<!--Sou programador freelancer em PHP e Analista de Dados/BI. Gosto de desenvolver soluções e ajudar o ambiente onde estou inserido a tomar as melhores decisões.-->
+<!--Analista Comercial/BI. Gosto de desenvolver soluções e ajudar o ambiente onde estou inserido a tomar as melhores decisões.-->
+
+### Conhecimentos como Analisa de Dados/BI
+
+Tratamento de dados e criação de Dashboards em Power BI.
+
+<img width='80' src="https://logosmarcas.net/wp-content/uploads/2022/02/Power-BI-Simbolo.png" />
 
 ### Conhecimentos como Programador
+
+<br>
 
 Atuo no desenvolvimento de sistemas Web para empresas de pequeno porte. <!--O objetivo principal é substituir controles que em sua maioria estão em diveros arquivos por um sistema único, capaz de dar mais agilidade ao negócio, economizando tempo nos acompanhamentos.-->
 
@@ -32,14 +40,6 @@ Atuo no desenvolvimento de sistemas Web para empresas de pequeno porte. <!--O ob
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
-<br>
-
-### Conhecimentos como Analisa de Dados/BI
-
-Tratamento de dados e criação de Dashboards em Power BI.
-
-<img width='80' src="https://logosmarcas.net/wp-content/uploads/2022/02/Power-BI-Simbolo.png" />
-
 <!--### Você pode conferir meus trabalhos no meu site:
 https://dkrollweb.com.br/ -->
 
@@ -48,6 +48,6 @@ https://dkrollweb.com.br/ -->
 <div display="inline"> 
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;
 </div>
-
-<!--### Confira os conteúdos de ciência de dados que eu criei:
- Aplicando a clusterização K-means na analise de gastos parlamentares dos partidos politícos (Medium)-->
+<div display="inline"> 
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/pyhton-original.svg" />&nbsp;&nbsp;
+</div>
