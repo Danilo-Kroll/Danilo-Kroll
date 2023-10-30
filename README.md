@@ -32,7 +32,7 @@ Tratamento de dados e criação de Dashboards em Power BI para tomada de a decis
 </div>
 <br>
 
-### Atualmente mais focado em buscar conhecimento em Ciência de Dados:
+### Atualmente focado em buscar mais conhecimento em Ciência de Dados com as ferramentas:
 <div display="inline"> 
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;
   <img width='50' height='50' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />&nbsp;&nbsp;
