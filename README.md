@@ -16,7 +16,6 @@
 2. MBA em Data Science e Analytics **USP/Esalq** (2022 - 2023)
 
 
-
 <!--Analista Comercial/BI. Gosto de desenvolver soluções e ajudar o ambiente onde estou inserido a tomar as melhores decisões.-->
 
 ### Conhecimentos como Analisa de Dados/BI
@@ -49,5 +48,5 @@ https://dkrollweb.com.br/ -->
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;
 </div>
 <div display="inline"> 
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/pyhton-original.svg" />&nbsp;&nbsp;
+  <img width='50' height='50' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />&nbsp;&nbsp;
 </div>
