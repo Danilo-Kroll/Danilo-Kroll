@@ -15,10 +15,10 @@
 
 2. MBA em Data Science e Analytics **USP/Esalq** (2022 - 2023)
 
-
 <!--Analista Comercial/BI. Gosto de desenvolver soluções e ajudar o ambiente onde estou inserido a tomar as melhores decisões.-->
+<br>
 
-### Conhecimentos como Analisa de Dados/BI
+### Conhecimentos com Análisa de Dados/BI
 
 Tratamento de dados e criação de Dashboards em Power BI.
 
@@ -27,10 +27,9 @@ Tratamento de dados e criação de Dashboards em Power BI.
   <img width='80' height='50' src="https://logosmarcas.net/wp-content/uploads/2022/02/Power-BI-Simbolo.png" />
   <img width='90' height='50' src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/320px-Sql_data_base_with_logo.png" />
 </div>
+<br>
 
 ### Conhecimentos como Programador
-
-<br>
 
 Atuo no desenvolvimento de sistemas Web para empresas de pequeno porte. <!--O objetivo principal é substituir controles que em sua maioria estão em diveros arquivos por um sistema único, capaz de dar mais agilidade ao negócio, economizando tempo nos acompanhamentos.-->
 
@@ -42,10 +41,7 @@ Atuo no desenvolvimento de sistemas Web para empresas de pequeno porte. <!--O ob
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
-
-<!--### Você pode conferir meus trabalhos no meu site:
-https://dkrollweb.com.br/ -->
-
+<br>
 
 ### Atualmente mais focado em buscar conhecimento em Ciência de Dados:
 <div display="inline"> 
