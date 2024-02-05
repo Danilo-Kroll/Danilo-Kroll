@@ -14,7 +14,6 @@
 1. Graduado em Engenharia de Produção **FACCAMP** (2011 - 2015)
 
 2. MBA em Data Science e Analytics **USP/Esalq** (2022 - 2023)
-<br>
 
 ### Objetivo do Repositório
 
