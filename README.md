@@ -17,7 +17,7 @@
 
 ### Objetivo do Repositório
 
-O objetivo desse repositório é compartilhar projetos de **Análise e Ciência de Dados**, visando apresentar meus conehcimentos com as ferramentas usadas e a resolução/análise de problemas.
+O objetivo desse repositório é compartilhar projetos de **Análise e Ciência de Dados**, apresentando meus conehcimentos com as ferramentas usadas e a resolução/análise de problemas.
 <br>
 
 ### Conhecimentos com Análisa de Dados/BI
