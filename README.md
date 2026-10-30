@@ -28,10 +28,10 @@ O objetivo deste repositório é compartilhar projetos e aplicações práticas 
 ### Conhecimentos
 
 <div display="inline"> 
-  <img width='50' height='50' src="https://pt.wikipedia.org/wiki/Ficheiro:Microsoft_Excel_2013-2019_logo.svg" />&nbsp;&nbsp;
+  <img width='50' height='50' src="https://cdn.simpleicons.org/microsoftexcel/217346" />&nbsp;&nbsp;
   <img width='80' height='50' src="https://logosmarcas.net/wp-content/uploads/2022/02/Power-BI-Simbolo.png" />&nbsp;&nbsp;
-  <img width='90' height='50' src="https://pt.wikipedia.org/wiki/Ficheiro:Sql_data_base_with_logo.png" />&nbsp;&nbsp;
-  <img width='50' height='50' src="https://icon-icons.com/pt/icone/python-vertical-logo/168039" />&nbsp;&nbsp;
+  <img width='90' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />&nbsp;&nbsp;
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />&nbsp;&nbsp;
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
